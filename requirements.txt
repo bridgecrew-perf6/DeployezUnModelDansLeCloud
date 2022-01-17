@@ -1,0 +1,19 @@
+panda
+numpy
+
+# plotting
+matplotlib
+seaborn
+plotly
+
+# ML
+pyspark
+tensorflow
+#sklearn
+
+# Connexions AWS
+boto3
+findspark
+
+# Imagerie
+PIL

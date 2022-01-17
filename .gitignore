@@ -1,0 +1,20 @@
+# Directories
+!*
+.DS_Store
+.ipynb_checkpoints/
+
+fruits-360/
+DOCS
+images/
+
+LIVRABLES/
+OLD/
+resultats/
+
+
+# Livrables
+P8_leisy_pierre/
+P8_leisy_pierre.zip
+
+# divers
+P8_01_notebook_LG.ipynb
